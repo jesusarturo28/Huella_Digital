@@ -38,4 +38,3 @@ El sitio es HTML, CSS y JavaScript sin compilación.
 ## Contacto
 
 - WhatsApp: 55 7352 2094
-- Sitio web: [huelladigital.mx](https://huelladigital.mx)
